@@ -1,49 +1,58 @@
-
 # Kuldeep Sharma
-### AI Product Management | Developer Infrastructure | Agentic AI
+### AI Product Manager · Technical Program Manager · AI Transformation & Developer Platforms
 
-Technology and product delivery leader with 20+ years of experience across enterprise software, cloud infrastructure, API integration and digital transformation.
+I lead complex technology products and programmes from discovery through production. Over **20 years in technology**, I have worked across **AI enablement, enterprise application modernisation, identity and access management (IAM), APIs, cloud and data centre infrastructure**, and global service delivery.
 
-Currently building independent AI-powered products, with a focus on agents, workflow automation, reliable backend integrations and practical user experiences.
+My focus is turning ideas into useful products: understanding the problem, working with engineering and security teams, establishing clear delivery and acceptance criteria, then validating the result with users and operational evidence.
 
-## Featured Projects
+**Based in the UK · Open to UK and remote-global AI Product, Technical Programme, Platform and Transformation opportunities**
 
-### Alyntara AI Agent
-Multimodal AI assistant exploring LLM integration, multilingual voice, tool calling, API connectivity and human-controlled automation.
+## What I've Delivered
 
-[GitHub Repository](https://github.com/Alyntara/Alyntara-AI-Agent) — Private development repository
+- **Enterprise authentication modernisation:** Led a global sign-in transformation serving **100,000+ users**, reaching **98% adoption** with **zero P1 incidents** in the reported rollout.
+- **Application and API enablement:** Coordinated onboarding and validation across approximately **4,000 application owners**; accelerated testing of **150 applications in around three months**.
+- **Enterprise AI adoption:** Delivered **Zoom AI Companion** and enterprise LLM rollout initiatives, partnering across privacy, security, engineering, operations and regional stakeholders.
+- **Infrastructure platforms:** Led technology refresh work spanning **74 servers, 23 sites and 10 data centres**, with a focus on dependencies, transition and operational readiness.
+- **Automation and physical systems:** Led a robotics-enabled remote smart-meter test-lab initiative during access restrictions, coordinating hardware, software and test teams.
 
-### Alyntara Digital Twin
-Agentic workflow platform with task orchestration, persistent state, application adapters, human approvals and auditability. Live integrations are under development.
+These are examples from enterprise delivery work; they are not usage or production-scale claims for the independent products below.
 
-[GitHub Repository](https://github.com/Alyntara/Alyntara-Digital-Twin) — Private development repository
+## Products I'm Building & Evaluating
 
-### Cognitwist AI
-AI-powered career platform focused on job discovery, role matching, CV optimisation and workflow automation.
+| Project | Product and engineering focus | Current position |
+| --- | --- | --- |
+| **[Alyntara AI Agent](https://github.com/Kuldeepse/profilePortfolio/blob/main/projects/alyntara-ai-agent.md)** | Multimodal AI assistant, LLM integration, multilingual voice, API/tool calling and human-controlled actions | Active development; voice reliability and end-to-end validation outstanding |
+| **[Alyntara Digital Twin](https://github.com/Kuldeepse/profilePortfolio/blob/main/projects/alyntara-digital-twin.md)** | Agentic workflows, persistent task state, application adapters, human approvals and auditability | Foundational development reported; live integration and production evidence outstanding |
+| **[Cognitwist AI](https://github.com/Kuldeepse/profilePortfolio/blob/main/projects/cognitwist-ai.md)** | AI-powered job discovery, role matching, career workflows and CV optimisation | UX, data quality and search relevance being improved |
+| **[MOTWise](https://github.com/Kuldeepse/profilePortfolio/blob/main/projects/motwise.md)** | Vehicle-service journeys, responsive product UX, integrations and payment workflows | Development and release validation ongoing |
 
-[Explore Cognitwist](https://cognitwistai.duckdns.org/career)
+**[Explore the public project portfolio →](https://github.com/Kuldeepse/profilePortfolio)**
 
-### MOTWise
-Digital automotive services platform exploring MOT and vehicle servicing journeys, API integrations, customer experiences and payments.
+The portfolio includes product case studies, [architecture diagrams](https://github.com/Kuldeepse/profilePortfolio/blob/main/architecture/README.md), [evaluation approach](https://github.com/Kuldeepse/profilePortfolio/blob/main/docs/testing-approach.md) and transparent notes on remaining gaps. Most application source repositories are private, and the portfolio does not imply that all products are released.
 
-[Explore MOTWise](https://motwiseai.duckdns.org/)
+## Areas I Work Across
 
-## Technical Focus
+| Product & AI | Platforms & Engineering | Delivery & Governance |
+| --- | --- | --- |
+| AI product strategy and discovery | API integration and application adapters | Product roadmaps and Agile delivery |
+| LLMs, AI agents and agentic workflows | Identity and access management (IAM) | Enterprise change and stakeholder alignment |
+| AI enablement and adoption | Cloud and data centre modernisation | Functional, regression and release testing |
+| Human-in-the-loop automation | Authentication, SSO, MFA and Zero Trust | Privacy, security, compliance and risk |
+| Product experimentation and evaluation | CI/CD, observability and service transition | Production readiness and measurable outcomes |
 
-- **AI:** LLMs, AI agents, prompt engineering, tool calling and evaluation
-- **Backend & Infrastructure:** Cloud services, APIs, authentication, networking and deployment
-- **Integration:** REST APIs, enterprise middleware and application connectivity
-- **Engineering:** SDLC, automated testing, CI/CD and release validation
-- **Product:** Discovery, roadmaps, MVPs, experimentation and adoption metrics
-- **Governance:** Security, privacy, human approvals and operational resilience
+## How I Approach Product Development
 
-## Professional Background
+**Discover the user problem → Define value and scope → Build a testable increment → Evaluate outcomes and failure modes → Improve → Release with evidence.**
 
-**JPMorgan Chase:** Enterprise platform and product delivery, global infrastructure modernisation, reusable APIs and AI adoption.
+I'm particularly interested in **AI-native developer experiences, backend infrastructure, reliable agents, API-first products and the path from prototype to production**. I work closely with engineers and architects on technical trade-offs, while keeping user value, cost, security and operability visible in product decisions.
 
-**HCL Technologies:** Enterprise integrations, cloud transformation, automation, technical delivery and commercial governance.
+## Background
+
+Enterprise product and technical programme delivery across **JPMorgan Chase** and **HCL Technologies**, working with distributed engineering, architecture, infrastructure, cyber security, operational and business teams.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/kuldeep-sharma-4561b716/)
-- [GitHub](https://github.com/Kuldeepse)
+- **[LinkedIn](https://www.linkedin.com/in/kuldeep-sharma-4561b716/)**
+- **[Public technical portfolio](https://github.com/Kuldeepse/profilePortfolio)**
+
+*This profile distinguishes completed enterprise delivery outcomes from independent products that are still under development and evaluation.*
